@@ -20,3 +20,6 @@ Thumbs.db
 pgdata/
 tmp/
 dist/
+
+# Added automatically by AGY
+.env.local
